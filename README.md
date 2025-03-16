@@ -8,9 +8,11 @@ Have installed Node.js v14 or later
 
 ### Clone this repo
 
-` git clone`
+` git clone https://github.com/stineknutsen/workflow-course-assignment.git`
 
 ### Install dependencies
+
+`npm install`
 
 ## Scripts for running tests
 
