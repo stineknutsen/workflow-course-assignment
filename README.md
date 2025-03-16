@@ -22,16 +22,14 @@ npm install
 
 ### Vitest tests
 
-````
+```
 npm run test
 ```
 
 ### Playwright e2e tests
 
-````
-
+```
 npx playwright test
-
 ```
 
 ## Environment variables
@@ -39,10 +37,6 @@ npx playwright test
 These can be found in the .env.example file as well
 
 ```
-
 TEST_USER_EMAIL=
 TEST_USER_PASSWORD=
-
-```
-
 ```
