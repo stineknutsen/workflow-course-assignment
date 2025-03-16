@@ -1,4 +1,4 @@
-import { isActivePath } from "userInterface.js";
+import { isActivePath } from "./userInterface.js";
 import { describe, it, expect } from "vitest";
 
 describe("isActivePath", () => {
